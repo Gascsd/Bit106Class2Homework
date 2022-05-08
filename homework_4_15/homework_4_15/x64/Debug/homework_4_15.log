@@ -1,2 +1,5 @@
 ﻿  test.c
+D:\code\2022\homework_4_15\homework_4_15\test.c(102,16): warning C4013: “rand”未定义；假设外部返回 int
+D:\code\2022\homework_4_15\homework_4_15\test.c(127,7): warning C4013: “srand”未定义；假设外部返回 int
+D:\code\2022\homework_4_15\homework_4_15\test.c(127,26): warning C4013: “time”未定义；假设外部返回 int
   homework_4_15.vcxproj -> D:\code\2022\homework_4_15\x64\Debug\homework_4_15.exe
