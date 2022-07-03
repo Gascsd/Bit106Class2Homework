@@ -1,0 +1,5 @@
+﻿  test.c
+D:\code\2022\homework_6_1\homework_6_1\test.c(76): warning C4716: “cmp_stu_by_name”: 必须返回一个值
+D:\code\2022\homework_6_1\homework_6_1\test.c(80): warning C4716: “cmp_stu_by_age”: 必须返回一个值
+D:\code\2022\homework_6_1\homework_6_1\test.c(72): warning C4716: “cmp_float”: 必须返回一个值
+  homework_6_1.vcxproj -> D:\code\2022\homework_6_1\x64\Debug\homework_6_1.exe
