@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\2022\homework_7_7\homework_7_7\test.c(37,14): warning C4090: “return”: 不同的“const”限定符
+  homework_7_7.vcxproj -> D:\code\2022\homework_7_7\x64\Debug\homework_7_7.exe
