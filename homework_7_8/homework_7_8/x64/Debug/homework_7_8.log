@@ -1,0 +1,5 @@
+﻿  test.c
+D:\code\2022\homework_7_8\homework_7_8\test.c(122,29): warning C4090: “函数”: 不同的“const”限定符
+D:\code\2022\homework_7_8\homework_7_8\test.c(122,29): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\code\2022\homework_7_8\homework_7_8\test.c(127,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  homework_7_8.vcxproj -> D:\code\2022\homework_7_8\x64\Debug\homework_7_8.exe
